@@ -1,0 +1,12 @@
+{
+  "dependencies": {
+    "@project-serum/anchor": "0.8.0",
+    "@project-serum/borsh": "^0.2.2",
+    "@solana/spl-token": "^0.1.4",
+    "app-root-path": "^3.0.0",
+    "toml": "^3.0.0"
+  },
+  "devDependencies": {
+    "ts-mocha": "^8.0.0"
+  }
+}
